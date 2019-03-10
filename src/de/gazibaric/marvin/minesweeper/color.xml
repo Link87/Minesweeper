@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="color_bg">000000</entry>
+    <!--0xFF7C00 -->
+    <entry key="color_acc">EEEEEE</entry>
+    <entry key="color_fg">EEEEEE</entry>
+    <entry key="color_level_1">0D5CFF</entry>
+    <entry key="color_level_2">00B233</entry>
+    <entry key="color_level_3">FFE10D</entry>
+    <entry key="color_level_4">E87E00</entry>
+    <entry key="color_level_5">FF0000</entry>
+    <entry key="color_level_6">961AE8</entry>
+    <entry key="color_level_7">666666</entry>
+    <entry key="color_level_8">EEEEEE</entry>
+</properties>

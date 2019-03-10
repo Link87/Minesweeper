@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="menu_normal">Normal</entry>
+    <entry key="menu_hexagon">Hexagon</entry>
+    <entry key="menu_preferences">Settings</entry>
+    <entry key="game_over">Game Over</entry>
+    <entry key="game_over_2nd">4422-2</entry>
+    <entry key="game_over_2nd-1">You were blown up!</entry>
+    <entry key="game_over_2nd-2">How about tryin' it again?</entry>
+    <entry key="game_over_2nd-3">Remember: Mines aren't healthy.</entry>
+    <entry key="game_over_2nd-4">DU 815T 635T0R83N!</entry>
+    <entry key="you_won">You Win</entry>
+    <entry key="you_won_2nd">4422-2</entry>
+    <entry key="you_won_2nd-1">Well done!</entry>
+    <entry key="you_won_2nd-2">You got 'em all!</entry>
+    <entry key="you_won_2nd-3">Feel motivated to do it again?</entry>
+    <entry key="quit">Quit</entry>
+    <entry key="quit_game">Quit Game</entry>
+    <entry key="retry">Retry</entry>
+    <entry key="start_game">Start</entry>
+    <entry key="field_size">Field: </entry>
+    <entry key="mine_count">Mines: </entry>
+    <entry key="next_arrow">&gt;</entry>
+    <entry key="prev_arrow">&lt;</entry>
+    <entry key="paused">Paused</entry>
+    <entry key="esc_to_resume">Press Esc to resume</entry>
+    <entry key="restart">Restart</entry>
+
+    <entry key="clicked_decoration_left">&gt;</entry>
+    <entry key="clicked_decoration_right">&lt;</entry>
+</properties>

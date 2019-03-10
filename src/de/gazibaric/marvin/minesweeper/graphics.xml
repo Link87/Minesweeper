@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="mode">fullscreen</entry>
+    <entry key="width">800</entry>
+    <entry key="height">600</entry>
+    <entry key="antialiasing">on</entry>
+    <entry key="quality">high</entry>
+    <entry key="interpolation">bicubic</entry>
+    <entry key="dither">on</entry>
+</properties>
